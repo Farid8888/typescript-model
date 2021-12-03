@@ -1,0 +1,39 @@
+.todos{
+    width: 40rem;
+    max-width: 95%;
+    margin: 2rem auto;
+}
+
+
+.flex{
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    font-weight: bold;
+}
+
+input{
+    border:none;
+    border-bottom: 2px solid black;
+    background-color: burlywood;
+    border-radius: 2px 2px 0 0;
+    font-size: 2rem;
+    margin-top: 10px;
+}
+
+button{
+    background-color: rgb(218, 128, 12);
+    padding: 8px 30px;
+    color: black;
+    border-radius: 3px;
+    border:none;
+    margin-top: 10px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: burlywood;
+}

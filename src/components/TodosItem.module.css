@@ -1,0 +1,7 @@
+.todos{
+    border:none;
+    background-color: burlywood;
+    border-radius: 2px 2px 0 0;
+    font-size: 2rem;
+    margin-top: 10px;
+}
